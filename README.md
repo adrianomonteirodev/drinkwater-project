@@ -4,7 +4,10 @@
 ### O Projeto:
 
    *O Projeto consiste em uma aplicação de gestão de consumo de água diária. A cada 250mls até 2 litros.*
-   
+
+<div>
+   <img src="./images/drink-water.gif" alt="Drink Water Project" />
+</div>
 ### Habilidades:
 
 - HTML5
